@@ -44,7 +44,7 @@ This ensures reliability and robustness in large-scale workflows.
 
 ###🔹 Checkpoints
 
-Checkpoints are saved states of the workflow that allow you to:
+**Checkpoints** are saved states of the workflow that allow you to:
 Resume from the last successful node after a crash.
 Track workflow history.
 Debug or analyze intermediate steps.
