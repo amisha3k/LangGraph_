@@ -13,3 +13,27 @@
 
 - **Persistent Workflow:**  
   Demonstrates saving and restoring workflow state.
+
+---
+
+## 🧰 Tech Stack
+
+- **Python 3.11+**
+- **LangGraph**
+- **LangChain**
+- **Streamlit**
+- **Groq API / LLMs**
+- **Pydantic**
+- **Dotenv**
+
+---
+
+## 📘 Learning Outcomes
+
+By exploring this repository, you’ll learn how to:
+
+- Build custom AI workflows with LangGraph.  
+- Use parallelism and branching in LLM pipelines.  
+- Implement persistent conversational memory.  
+- Compare **LangGraph** and **LangChain** practically.  
+- Create **Streamlit-based UIs** for LangGraph agents.
